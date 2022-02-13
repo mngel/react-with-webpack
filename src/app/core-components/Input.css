@@ -1,0 +1,9 @@
+.input label {
+  display: block;
+  font: .9rem 'Fira Sans', sans-serif;
+}
+
+.input input[type='submit'],
+.input label {
+  margin-top: 1rem;
+}

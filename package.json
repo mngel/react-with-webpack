@@ -1,0 +1,11 @@
+{
+  "name": "react-with-webpack",
+  "version": "1.0.0",
+  "description": "React with Webpack base application",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "mngel",
+  "license": "MIT"
+}
